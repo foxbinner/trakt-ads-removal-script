@@ -60,7 +60,7 @@ If you would like to contribute to this repository, you're welcome -
 
 ## 📜 License
 
-This script is free and open-source script licensed under the [MIT License][repo_license_url]
+This script is free and open-source script licensed under the [MIT License][repo_license_url].
 
 <!-- Title Badge Links -->
 [made_with_js]: https://forthebadge.com/images/badges/made-with-javascript.svg
