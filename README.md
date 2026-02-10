@@ -60,7 +60,7 @@ If you would like to contribute to this repository, you're welcome -
 
 ## 📜 License
 
-This script is free and open-source script licensed under the [MIT License][repo_license_url], created and supported by [Titas Ahmed][author_url] with 🩵 for people and robots.
+This script is free and open-source script licensed under the [MIT License][repo_license_url]
 
 <!-- Title Badge Links -->
 [made_with_js]: https://forthebadge.com/images/badges/made-with-javascript.svg
@@ -68,10 +68,10 @@ This script is free and open-source script licensed under the [MIT License][repo
 [forthebadge_url]: http://forthebadge.com
 
 <!-- Repo Links -->
-[repo_url]: https://github.com/adxdy/trakt-ads-removal-script
-[repo_license_url]: https://github.com/adxdy/trakt-ads-removal-script/blob/main/LICENSE
+[repo_url]: https://github.com/foxbinner/trakt-ads-removal-script
+[repo_license_url]: https://github.com/foxbinner/trakt-ads-removal-script/blob/main/LICENSE
 [repo_license_img]: https://img.shields.io/badge/license-MIT-red?style=flat&logo=none
-[repo_issues_url]: https://github.com/adxdy/trakt-ads-removal-script/issues
+[repo_issues_url]: https://github.com/foxbinner/trakt-ads-removal-script/issues
 [repo_issues_img]: https://img.shields.io/badge/feedback-open-green?style=flat&logo=none
 
 <!-- Repo Links -->
@@ -80,4 +80,3 @@ This script is free and open-source script licensed under the [MIT License][repo
 
 <!-- Other Links -->
 [script_site_url]: https://trakt.tv
-[author_url]: https://github.com/adxdy
